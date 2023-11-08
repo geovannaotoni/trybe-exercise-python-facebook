@@ -1,4 +1,4 @@
-# Batalha Naval com Python 🚢
+# Desafio Python 🐍
 Nesse exercício foi implementada uma função em Python para resolver um teste técnico que já foi aplicado no processo seletivo do Facebook. Ele consistiu em escrever uma função chamada `count_words` que, a partir de uma lista de palavras e uma string, decide quais palavras podem ser formadas com os caracteres da string (cada caractere só pode ser utilizado uma vez) e retorna a soma do comprimento das palavras escolhidas.
 
 > Exemplo 1:
